@@ -1,0 +1,1325 @@
+@media only screen and (max-width: 7000px){
+	.page-wrapper{
+		overflow:hidden;	
+	}
+}
+
+@media only screen and (max-width: 1899px){
+	.welcome-two .right-image{
+		width: 300px;
+	}
+}
+
+@media only screen and (max-width: 1599px){
+	.main-header .header-upper .links-box{
+		margin-left: 140px;
+	}
+
+	h1,
+	.banner-section .slide-item h1,
+	.banner-two .slide-item h1,
+	.banner-three .slide-item h1{
+		font-size: 72px;
+	}
+
+	h2{
+		font-size: 54px;
+	}
+
+	.title-box h2 .bg-vector,
+	.banner-section .slide-item h1 .bg-vector{
+		width: 260px;
+	}
+
+	.btn-style-one,
+	.btn-style-two{
+		font-size: 18px;
+	}
+
+	.banner-section .slide-item .content-box{
+		height: 900px;
+	}
+
+	.banner-two .slide-item .image-box{
+		width: 650px;
+	}
+
+	.cta-one .inner .content .text,
+	.cta-one .inner .content .phone,
+	.service-block .image-box .count{
+		font-size: 30px;
+	}
+
+	.start-class .title-box{
+		max-width: 550px;
+	}
+
+	.inner-banner .bread-crumb ul li{
+		font-size: 16px;
+	}
+
+	.inner-banner{
+		padding: 230px 0 110px;
+	}
+}
+
+@media only screen and (max-width: 1439px){
+
+	.banner-two .slide-item h1,
+	.banner-three .slide-item h1{
+		font-size: 60px;
+	}
+
+	.banner-two .slide-item .content-box{
+		height: 750px;
+		padding: 50px 0;
+	}
+
+	.banner-two .slide-item .content{
+		vertical-align: middle;
+	}
+
+	.main-header .header-upper .links-box{
+		margin-left: 100px;
+	}
+
+	.testimonial-section .testi-block .text-content{
+		font-size: 22px;
+	}
+	
+}
+
+@media only screen and (max-width: 1339px){
+	.main-header .header-upper .links-box{
+		margin-left: 20px;
+	}
+
+	.main-menu .navigation > li{
+		margin-left: 30px;
+	}
+
+	h1,
+	.banner-section .slide-item h1{
+		font-size: 64px;
+	}
+
+	h2,
+	.title-box.style-two h2{
+		font-size: 48px;
+	}
+
+	.title-box h2 .bg-vector,
+	.banner-section .slide-item h1 .bg-vector{
+		width: 220px;
+	}
+
+	.banner-section .slide-item h1 .bg-vector{
+		bottom: -30px;
+	}
+
+	.banner-section .slide-item .content-box{
+		height: 800px;
+	}
+
+	.banner-two .slide-item .content-box{
+		height: 700px;
+	}
+
+	.banner-two .slide-item h1,
+	.banner-three .slide-item h1{
+		font-size: 54px;
+	}
+
+	.banner-section .slide-item .text{
+		padding-top: 60px;
+		font-size: 20px;
+	}
+
+	.banner-two .slide-item .image-box{
+		width: 500px;
+		bottom: 170px;
+	}
+
+	.banner-three .slide-item .image-box{
+		width: 380px;
+		margin-left: 180px;
+	}
+
+	.banner-three .slide-item .content-box{
+		height: 880px;
+		padding: 150px 0 50px;
+	}
+
+	.banner-two .slide-item .text,
+	.banner-three .slide-item .text{
+		font-size: 20px;
+	}
+
+	.welcome-section .image-col .client-badge{
+		right: auto;
+		left: 30px;
+		top: 30px;
+		z-index: 5;
+	}
+
+	.welcome-section .text-col .inner{
+		padding-left: 0;
+	}
+
+	.testimonial-section .testi-block .text-content{
+		font-size: 20px;
+	}
+
+	.testimonial-section .testi-block .info{
+		padding-top: 50px;
+	}
+
+	.subscribe-section .title-col h2{
+		padding-top: 10px;
+		font-size: 32px;
+	}
+
+	.cta-one .inner .content .text, 
+	.cta-one .inner .content .phone, 
+	.service-block .image-box .count{
+		font-size: 24px;
+	}
+
+	.cta-one .inner .content .phone .icon{
+		font-size: 30px;
+	}
+
+	.subscribe-section{
+		margin: 0 20px -60px;
+		padding-top: 50px;
+		padding-bottom: 20px;
+	}
+
+	.subscribe-section .auto-container{
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+
+	.main-footer .upper-section h6{
+		font-size: 20px;
+	}
+
+	.main-footer .upper-section .links li{
+		margin-bottom: 15px;
+	}
+
+	.welcome-two .image-col .w-box{
+		margin-left: -220px;
+	}
+
+	.pricing-block .upper-box .price{
+		font-size: 54px;
+	}
+
+	.pricing-block .upper-box .plan-title{
+		font-size: 20px;
+	}
+
+	.pricing-block .features{
+		font-size: 18px;
+	}
+
+	.about-one .image-col .inner{
+		padding-top: 70px;
+	}
+
+	.welcome-two .image-col .w-box .text{
+		font-size: 16px;
+	}
+
+	.welcome-three .image-col .inner{
+		padding-right: 0;
+		padding-left: 0;
+	}
+
+	.welcome-three .text-col .text-content .big-text{
+		font-size: 20px;
+	}
+
+	.title-box .subtitle{
+		font-size: 16px;
+		margin-bottom: 15px;
+	}
+
+	.program-block-three h3{
+		font-size: 26px;
+	}
+
+	.testimonial-three .testi-block .inner-box{
+		padding-left: 25px;
+		padding-right: 25px;
+	}
+
+	.program-block-three .mid-box .price{
+		font-size: 42px;
+	}
+
+	.inner-banner{
+		padding: 200px 0 100px;
+	}
+
+	.not-found-section .big-text{
+		font-size: 180px;
+	}
+
+	.not-found-section .med-text{
+		font-size: 44px;
+	}
+
+	.not-found-section .text{
+		font-size: 22px;
+	}
+
+	.sidebar-page-container .sidebar-side .sidebar{
+		padding-left: 0;
+	}
+
+	.blog-details .image-box,
+	.blog-details blockquote{
+		max-width: none;
+	}
+
+	.sidebar-page-container .blog-title{
+		margin-bottom: 30px;
+	}
+	
+}
+
+@media only screen and (max-width: 1199px){
+
+	body{
+		font-size: 16px;
+		line-height: 1.7em;
+	}
+
+	.text{
+		line-height: 1.7em;
+	}
+
+	
+	.btn-style-one,
+	.btn-style-two{
+		font-size: 16px;
+		line-height: 30px;
+		padding: 10px 30px;
+	}
+
+	.main-header .header-upper .links-box{
+		margin-left: 0;
+	}
+
+	.main-menu .navigation > li{
+		margin-left: 20px;
+	}
+
+	h1,
+	.banner-section .slide-item h1,
+	.banner-three .slide-item h1{
+		font-size: 48px;
+	}
+
+	.banner-three .slide-item .inner{
+		max-width: 500px;
+	}
+
+	h2,
+	.title-box.style-two h2,
+	.blog-details h2{
+		font-size: 40px;
+	}
+
+	h3{
+		font-size: 26px;
+	}
+
+	h4,
+	.testimonial-section .testi-block .info h4{
+		font-size: 22px;
+	}
+
+	.main-footer .upper-section h6{
+		font-size: 18px;
+	}
+
+	.testimonial-section .testi-block .info .designation{
+		font-size: 16px;
+	}
+
+	.title-box h2 .bg-vector,
+	.banner-section .slide-item h1 .bg-vector{
+		width: 200px;
+		display: none;
+	}
+
+	.banner-section .slide-item h1 .bg-vector{
+		display: none;
+		bottom: -30px;
+	}
+
+	.banner-section .slide-item .content-box{
+		height: 700px;
+	}
+
+	.banner-section .slide-item .text{
+		padding-top: 40px;
+		font-size: 18px;
+	}
+
+	.banner-three .slide-item .image-box .fact{
+		display: none;
+	}
+
+	.banner-three .slide-item .image-box{
+		margin-left: 130px;
+		bottom: 70px;
+	}
+
+	.title-box,
+	.title-box.centered,
+	.why-us .title-box,
+	.start-class .title-box,
+	.programs-section .title-box{
+		margin-bottom: 50px;
+	}
+
+	.welcome-section .text-col .title-box{
+		margin-bottom: 40px;
+	}
+
+	.start-class .form-col .inner{
+		padding-left: 30px;
+	}
+
+	.start-class .form-box{
+		padding: 40px 25px 25px;
+	}
+
+	.start-class .title-col .arrow-form{
+		width: 70px;
+		top: 30px;
+	}
+
+	.testimonial-section .testi-block .inner-box{
+		padding-left: 80px;
+		padding-right: 80px;
+	}
+
+	.main-footer .footer-gallery{
+		max-width: 320px;
+	}
+
+	.main-footer .f-bottom .social-links{
+		padding-top: 20px;
+	}
+
+	.banner-two .slide-item .content-box{
+		height: 600px;
+		padding: 50px 0;
+	}
+
+	.banner-two .slide-item .image-box{
+		display: none;
+	}
+
+	.welcome-two .text-col{
+		order: 0;
+	}
+
+	.welcome-two .image-col{
+		order: 12;
+	}
+
+	.welcome-two{
+		padding-bottom: 70px;
+	}
+
+	.banner-two .slide-item .curve-layer{
+		height: 150px;
+	}
+
+	.welcome-three .text-col .title-box{
+		margin-bottom: 30px;
+	}
+
+	.welcome-three{
+		padding: 130px 0 80px;
+	}
+
+	.why-us-three .image-col .over-text{
+		font-size: 18px;
+		padding: 40px 20px;
+		width: 180px;
+	}
+
+	.team-block .lower h4{
+		font-size: 22px;
+	}
+
+	.team-section .row{
+		margin: 0 -10px;
+	}
+
+	.team-section .row .team-block{
+		padding: 0 10px;
+	}
+
+	.not-found-section .med-text{
+		font-size: 40px;
+	}
+
+	.not-found-section .text{
+		font-size: 20px;
+	}
+
+	.info-section .info-block .inner-box{
+		padding: 50px 20px 45px;
+	}
+
+}
+
+@media only screen and (min-width: 768px){
+	.main-menu .navigation > li > ul,
+	.main-menu .navigation > li > ul > li > ul{
+		display:block !important;
+		visibility:hidden;
+		opacity:0;
+	}
+}
+
+@media only screen and (max-width: 991px){
+	.header-top .top-left,
+	.header-two .header-top .top-right{
+		display: none;
+	}
+
+	.header-top .top-right,
+	.header-two .header-top .top-left{
+		display: block;
+		width: 100%;
+		text-align: center;
+	}
+
+	.header-top .top-info li{
+		display: inline-block;
+		vertical-align: middle;
+		float: none;
+	}
+
+	.header-top .top-right .cont-us{
+		width: 100%;
+	}
+
+	.main-header .nav-outer{
+		display: none;
+	}
+
+	.main-header .nav-toggler{
+		display: block;
+	}
+
+	.main-header .header-upper .links-box{
+		padding-top: 32px;
+	}
+
+	.main-header .header-upper .links-box .link{
+		margin-left: 20px;
+	}
+
+	.main-header .main-box .logo-box .logo img{
+		height: 50px;
+	}
+
+	.header-two{
+		min-height: 164px;
+	}
+
+	.banner-section .slide-item .content-box{
+		height: 600px;
+		padding: 100px 0 50px;
+	}
+
+	.banner-two .slide-item .content-box{
+		height: 520px;
+		padding: 50px 0;
+	}
+
+	.banner-three .slide-item .content-box{
+		height: 550px;
+		padding: 140px 0 50px;
+	}
+
+	.banner-two .slide-item .curve-layer{
+		height: 100px;
+	}
+
+	.banner-two .slide-item .inner,
+	.banner-three .slide-item .inner{
+		max-width: 600px;
+		margin: 0 auto;
+		text-align: center;
+	}
+
+	.banner-two .slide-item .text,
+	.banner-three .slide-item .text{
+		max-width: none;
+		font-size: 18px;
+		padding-top: 30px;
+	}
+
+	.banner-two .slide-item .links-box,
+	.banner-three .slide-item .links-box{
+		padding-top: 30px;
+	}
+
+	.banner-three .slide-item .image-box{
+		display: none;
+	}
+
+	h1,
+	.banner-section .slide-item h1,
+	.banner-two .slide-item h1,
+	.banner-three .slide-item h1{
+		font-size: 40px;
+	}
+
+	h2,
+	.title-box.style-two h2,
+	.blog-details h2{
+		font-size: 36px;
+	}
+
+	h3{
+		font-size: 24px;
+	}
+
+	h4,
+	.testimonial-section .testi-block .info h4{
+		font-size: 20px;
+	}
+
+	h5{
+		font-size: 18px;
+	}
+
+	.main-footer .upper-section h6{
+		font-size: 16px;
+	}
+
+	.cta-one .inner .content{
+		padding-right: 0;
+	}
+
+	.cta-one .inner .content:after{
+		display: none;
+	}
+
+	.cta-one{
+		border-top: 4px solid #65BC25;
+	}
+
+	.welcome-section .text-col{
+		order: 0;
+	}
+
+	.welcome-section .image-col{
+		order: 12;
+	}
+
+	.welcome-section{
+		padding: 80px 0 30px;
+	}
+
+	.welcome-section .image-col .image{
+		max-width: 450px;
+	}
+
+	.welcome-section .image-col .image-box{
+		position: relative;
+		top: 0;
+		left: 0;
+		margin-left: 100px;
+		margin-top: -350px;
+	}
+
+	.services-one{
+		padding: 80px 0 30px;
+	}
+
+	.start-class{
+		padding-top: 80px;
+		padding-bottom: 80px;
+	}
+
+	.start-class .title-col .arrow-form{
+		right: 50px;
+		bottom: -70px;
+		top: auto;
+		transform: rotate(90deg);
+	}
+
+	.start-class .form-col .inner{
+		padding-left: 0;
+	}
+
+	.why-us{
+		padding: 80px 0 0;
+	}
+
+	.team-section{
+		padding: 80px 0 20px;
+	}
+
+	.testimonial-section{
+		padding: 80px 0 0;
+	}
+
+	.news-section{
+		padding: 80px 0 40px;
+	}
+
+	.subscribe-section .title-col h2{
+		text-align: center;
+	}
+
+	.banner-section .slide-item .links-box .link .theme-btn,
+	.banner-two .slide-item .links-box .link .theme-btn,
+	.banner-three .slide-item .links-box .link .theme-btn{
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+
+	.welcome-two .right-image{
+		display: none;
+	}
+
+	.welcome-two{
+		padding: 70px 0 30px;
+	}
+
+	.video-lessons{
+		padding: 80px 0;
+	}
+
+	.programs-two{
+		padding: 80px 0 50px;
+	}
+
+	.testimonial-two{
+		padding: 80px 0;
+	}
+
+	.testimonial-two .testi-block .text-content{
+		font-size: 20px;
+	}
+
+	.testimonial-two .testi-block .info{
+		padding-top: 30px;
+	}
+
+	.testimonial-two .testi-block .info .name,
+	.testimonial-two .testi-block .info .designation{
+		font-size: 18px;
+	}
+
+	.testimonial-two .testi-block .image-box{
+		margin-bottom: 50px;
+	}
+	
+	.pricing-section,
+	.why-us-two{
+		padding: 80px 0 50px;
+	}
+
+	.pricing-block .upper-box .price{
+		font-size: 48px;
+	}
+
+	.about-one .image-col .inner{
+		padding-top: 0;
+	}
+
+	.about-one{
+		padding: 80px 0 30px;
+	}
+
+	.pricing-block .link-box .theme-btn{
+		font-size: 18px;
+	}
+
+	.welcome-three .text-col{
+		order: 0;
+	}
+
+	.welcome-three .image-col{
+		order: 12;
+	}
+
+	.welcome-three{
+		padding: 80px 0 30px;
+	}
+
+	.welcome-three .image-col .inner{
+		padding-left: 0;
+	}
+
+	.welcome-three .image-col .pattern{
+		left: -80px;
+	}
+
+	.why-us-three{
+		padding: 80px 0 50px;
+	}
+
+	.why-us-three .image-col .inner{
+		padding-left: 0;
+	}
+
+	.why-us-three .image-col .over-text{
+		left: 50%;
+		bottom: auto;
+		top: 50%;
+		margin: -80px 0 0 -90px;
+		font-size: 18px;
+		width: 180px;
+	}
+
+	.programs-three{
+		padding: 80px 0 50px;
+	}
+
+	.testimonial-three{
+		padding: 80px 0;
+	}
+
+	.inner-banner{
+		padding: 170px 0 80px;
+	}
+
+	.sponsors-section{
+		padding: 60px 0;
+	}
+
+	.course-details{
+		padding: 80px 0 50px;
+	}
+
+	.course-details .big-image{
+		margin-bottom: 30px;
+	}
+
+	.faqs-section{
+		padding: 80px 0 50px;
+	}
+
+	.not-found-section{
+		padding: 70px 0 80px;
+	}
+
+	.not-found-section .big-text{
+		font-size: 140px;
+	}
+
+	.not-found-section .med-text{
+		font-size: 32px;
+		margin-bottom: 25px;
+	}
+
+	.not-found-section .text{
+		font-size: 18px;
+	}
+
+	.not-found-section .link-box .theme-btn{
+		font-size: 16px;
+	}
+
+	.info-section{
+		padding: 80px 0 50px;
+	}
+
+	.info-section .map-box,
+	.info-section .map-box iframe{
+		height: 350px;
+	}
+
+	.contact-section{
+		padding: 75px 0 60px;
+	}
+
+	.sidebar-page-container{
+		padding: 70px 0 50px;
+	}
+}
+
+@media only screen and (max-width: 767px){
+	.banner-section .slide-item .text{
+		padding-top: 30px;
+		font-size: 16px;
+	}
+
+	.banner-section .owl-theme .owl-nav{
+		display: none;
+	}
+
+	.banner-section .slide-item .links-box{
+		padding-top: 40px;
+	}
+
+	.cta-one .inner .content .text{
+		margin-right: 0;
+		display: block;
+	}
+
+	h1,
+	.banner-section .slide-item h1,
+	.banner-two .slide-item h1,
+	.banner-three .slide-item h1{
+		font-size: 34px;
+		line-height: 1.25em;
+	}
+
+	.banner-two .slide-item .curve-layer{
+		height: 70px;
+	}
+
+	h2,
+	.title-box.style-two h2,
+	.blog-details h2{
+		font-size: 30px;
+	}
+
+	.start-class .form-box h3,
+	.add-comment h3{
+		font-size: 26px;
+	}
+
+	h3{
+		font-size: 22px;
+	}
+
+	.news-block h4{
+		font-size: 22px;
+	}
+
+	.cta-one .inner .content .text, 
+	.cta-one .inner .content .phone{
+		font-size: 20px;
+	}
+
+	.cta-one .inner .content .phone .icon{
+		font-size: 24px;
+	}
+
+	.welcome-section .text-col .title-box{
+		margin-bottom: 30px;
+	}
+
+	.start-class .title-col .arrow-form{
+		bottom: -80px;
+		width: 50px;
+	}
+
+	.why-block .inner-box{
+		padding: 50px 20px 40px;
+		text-align: center;
+	}
+
+	.why-block .icon-box{
+		margin: 0 auto 30px;
+	}
+
+	.testimonial-section .testi-block .text-content{
+		font-size: 18px;
+	}
+
+	.testimonial-section .owl-theme .owl-nav{
+		display: none;
+	}
+
+	.testimonial-section .testi-block .inner-box{
+		padding: 0 0;
+	}
+
+	.subscribe-section .title-col h2{
+		font-size: 24px;
+		line-height: 1.3em;
+		padding-top: 0;
+	}
+
+	.subscribe-section form .form-group input{
+		height: 66px;
+		line-height: 30px;
+		font-size: 16px;
+		padding: 18px 20px 18px 20px;
+	}
+
+	.subscribe-section form .theme-btn{
+		right: 10px;
+		top: 10px;
+		width: 46px;
+		height: 46px;
+		line-height: 30px;
+		font-size: 20px;
+		padding: 10px 5px;
+	}
+
+	.main-footer .upper-section h6{
+		margin-top: 0;
+	}
+
+	.why-block-two .inner-box{
+		padding: 45px 20px;
+		text-align: center;
+	}
+
+	.why-block-two .icon-box{
+		margin: 0 auto 30px;
+	}
+
+	.pricing-block .upper-box .price{
+		font-size: 42px;
+	}
+
+	.pricing-block .link-box .theme-btn,
+	.banner-three .slide-item .text{
+		font-size: 16px;
+	}
+
+	.welcome-three .text-col .text-content .big-text{
+		font-size: 18px;
+	}
+
+	.welcome-three .image-col .image-box .vid-btn{
+		width: 80px;
+		height: 70px;
+		line-height: 50px;
+		font-size: 24px;
+		padding: 10px 10px;
+	}
+
+	.inner-banner{
+		padding: 150px 0 50px;
+	}
+
+	.accordion-box .block .acc-btn{
+		font-size: 16px;
+		padding-left: 20px;
+	}
+
+	.accordion-box .block .acc-btn:after{
+		font-size: 24px;
+	}
+
+	.accordion-box .block .content{
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+
+	.contact-section .title-box.centered{
+		margin-bottom: 40px;
+	}
+
+}
+
+@media only screen and (max-width: 599px){
+	.header-top .top-right .cont-us{
+		font-size: 14px;
+	}
+
+	.welcome-section .lower-links .link:last-child{
+		margin-top: 20px;
+	}
+
+	.welcome-section .image-col .image-box{
+		margin-left: 0;
+		margin-right: 80px;
+	}
+
+	.welcome-section .image-col .image-box .vid-btn{
+		width: 80px;
+		height: 70px;
+		line-height: 50px;
+		padding: 10px 10px;
+	}
+
+	.testimonial-section .testi-block .image-box{
+		max-width: 220px;
+		margin-bottom: 40px;
+	}
+
+	.testimonial-section .def-images{
+		display: none;
+	}
+
+	.testimonial-section .testi-block .info{
+		padding-top: 30px;
+	}
+
+	.main-footer{
+		text-align: center;
+	}
+
+	.main-footer .footer-gallery{
+		max-width: none;
+	}
+
+	.main-footer .about{
+		max-width: none;
+	}
+
+	.main-footer .upper-section h6:before{
+		left: 50%;
+		margin-left: -18px;
+	}
+
+	.main-footer .about .phone,
+	.main-footer .about .address{
+		padding-left: 0;
+		max-width: none;
+	}
+
+	.main-footer .about .phone .icon,
+	.main-footer .about .address .icon{
+		position: relative;
+		display: block;
+		margin: 0 auto 20px;
+	}
+
+	.subscribe-section{
+		margin: 0 0 -60px;
+	}
+
+	.subscribe-section .auto-container{
+		padding: 0 20px;
+	}
+
+	.main-footer .upper-section{
+		padding: 70px 0 20px;
+	}
+
+	.main-header{
+		min-height: 0;
+	}
+
+	.header-two{
+		min-height: 110px;
+	}
+
+	.main-header .header-top{
+		display: none;
+	}
+
+	.main-header .header-upper{
+		top: 0;
+	}
+
+	.banner-two .slide-item .content-box{
+		height: 400px;
+	}
+
+	.banner-two .slide-item .text{
+		font-size: 16px;
+	}
+
+	.banner-two .slide-item .curve-layer{
+		height: 50px;
+	}
+
+	.banner-two .slide-item h1,
+	.banner-three .slide-item h1{
+		font-size: 30px;
+	}
+
+	.welcome-two .image-col .images{
+		max-width: none;
+	}
+
+	.welcome-two .image-col .w-box{
+		left: auto;
+		margin-left: 0;
+		right: 40px;
+		max-width: 220px;
+	}
+
+	.testimonial-two .testi-block .text-content{
+		font-size: 18px;
+	}
+
+	.testimonial-two .owl-theme .owl-dots{
+		padding-top: 40px;
+	}
+
+	.pricing-block .features{
+		font-size: 16px;
+	}
+
+	.program-block-three .mid-box{
+		text-align: center;
+	}
+
+	.program-block-three .mid-box .price{
+		display: block;
+		font-size: 32px;
+	}
+
+	.program-block-three .mid-box .price,
+	.program-block-three .mid-box .rating{
+		float: none;
+		display: block;
+		margin: 0 0;
+	}
+
+	.program-block-three h3{
+		font-size: 22px;
+	}
+
+	.why-us-three .title-box{
+		text-align: center;
+	}
+
+	.why-us-three .why-info,
+	.why-us-three .lower-links{
+		text-align: center;
+	}
+
+	.why-us-three .lower-links .link{
+		display: inline-block;
+		margin: 0 10px 20px;
+		float: none;
+	}
+
+	.why-us-three .why-info-block{
+		float: none;
+		margin: 0 auto 50px;
+	}
+
+	.why-us-three .lower-links .text-link{
+		padding-top: 0;
+		padding-bottom: 0px;
+	}
+
+	.testimonial-three .testi-block .inner-box{
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+
+	.not-found-section .big-text{
+		font-size: 100px;
+	}
+
+	.not-found-section .med-text{
+		font-size: 24px;
+		margin-bottom: 20px;
+	}
+
+	.not-found-section .text{
+		font-size: 16px;
+	}
+
+	.blog-details h2{
+		font-size: 28px;
+	}
+
+	.blog-details blockquote{
+		padding-right: 20px;
+		padding-left: 20px;
+		font-size: 16px;
+	}
+
+	.blog-details blockquote .quote-left{
+		left: 20px;
+	}
+
+}
+
+@media only screen and (max-width: 479px) {
+	h1,
+	.banner-section .slide-item h1,
+	.banner-two .slide-item h1,
+	.banner-three .slide-item h1{
+		font-size: 28px;
+		line-height: 1.25em;
+	}
+
+	.banner-section .slide-item .links-box .link,
+	.banner-two .slide-item .links-box .link,
+	.banner-three .slide-item .links-box .link{
+		display: block;
+		margin: 0 0 10px;
+	}
+
+	.banner-section .slide-item .links-box .link .theme-btn,
+	.banner-two .slide-item .links-box .link .theme-btn,
+	.banner-three .slide-item .links-box .link .theme-btn{
+		display: block;
+	}
+
+	.banner-section .slide-item .content-box{
+		padding-top: 120px;
+	}
+
+	.cta-one .inner .content .text, 
+	.cta-one .inner .content .phone{
+		font-size: 18px;
+	}
+
+	h2,
+	.start-class .form-box h3,
+	.title-box.style-two h2,
+	.blog-details h2{
+		font-size: 24px;
+	}
+
+	h3{
+		font-size: 20px;
+	}
+
+	.news-block h4{
+		font-size: 20px;
+	}
+
+	.welcome-section .image-col .image-box{
+		margin-top: -200px;
+		margin-right: 50px;
+	}
+
+	.program-block .hvr-content{
+		padding: 20px 20px 20px;
+	}
+
+	.subscribe-section .title-col h2{
+		font-size: 20px;
+		line-height: 1.4em;
+	}
+
+	.main-header .header-upper .links-box,
+	.banner-section .owl-theme .owl-dots{
+		display: none;
+	}
+
+	.testimonial-two .testi-block .text-content,
+	.testimonial-two .testi-block .info .name,
+	.testimonial-two .testi-block .info .designation{
+		font-size: 16px;
+	}
+
+	.video-lessons .title h2 br{
+		display: none;
+	}
+
+	.video-lessons .title h2{
+		line-height: 1.3em;
+	}
+
+	.not-found-section .med-text{
+		font-size: 22px;
+	}
+
+	.info-section .info-block .inner-box{
+		padding: 45px 15px 40px;
+	}
+}
